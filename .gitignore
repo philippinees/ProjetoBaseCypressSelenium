@@ -1,0 +1,6 @@
+cypress.env.json
+node_modules/
+screenshots
+reports
+package-lock.json
+gerenciaScripts/tempo.json

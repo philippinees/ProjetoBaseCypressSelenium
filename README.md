@@ -1,2 +1,1 @@
-# ProjetoBaseCypressSelenium
-um projeto implementado com Selenium e Cypress junto com Cucumber. Muito eficiente para Testar aplicações legados
+Projeto base bem simples de selenium e cypress, onde possui uma simples estruturação de pastas e arquivos afim de manter a legibilidade do código. O projeto possui a capacidade de rodar apenas testes do cypress e/ou testes do selenium assim como ambos podem ser executados ao mesmo tempo. A critério da necessidade
